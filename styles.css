@@ -1,0 +1,37 @@
+/* add your CSS here */
+.animal-info{
+  font-style:italic;
+}
+ul{
+  list-style-type:none;
+  flot
+  
+}
+
+#facts span{
+ font-weight:bold; 
+}
+
+#container
+{
+  border:solid white;
+  width:400px;
+  heigth:200px;
+  background:transparent;
+  box-shadow: 2px 2px 2px 2px #aaaaaa;
+  text-align: center;
+  padding:10px;
+  border-width:10px;
+}
+
+.animal-info
+{
+  border:solid white;
+  width:350px;
+  heigth:200px;
+  background:transparent;
+  box-shadow: 2px 2px 2px 2px #aaaaaa;
+  text-align: left;
+  padding:10px;
+  border-width:10px;
+}
